@@ -1,0 +1,62 @@
+body{
+    background-image: linear-gradient(to bottom, rgba(238, 247, 123, 0.938), rgba(0,0,255,0.5)),
+   url("https://png.pngtree.com/background/20210711/origin…d-children-s-day-poster-picture-image_1077937.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    background: -webkit-linear-gradient(rgb(228, 235, 171), rgb(155, 94, 236));
+    text-align: center;
+    font-family: 'Mystery Quest', cursive;
+    font-size: 125px;  
+    color:rgba(238, 247,123, 0.938);
+    border:2px hidden #fff;
+      box-shadow: 10px 10px 5px rgb(122, 121, 121);
+      -webkit-box-shadow: 10px 10px 5px rgb(71, 69, 69);
+      border-radius: 25px;
+      width: 1200px;
+      margin:auto;
+      
+}
+
+.titels{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:40px 20%;
+}
+a :hover{
+    color:rgb(245, 163, 176)
+}
+
+h2{
+    font-family: 'Mystery Quest', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+p{
+    text-align: center;
+    font-family:cursive;
+    font-size: 25px;
+}
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+  
+}
+.audio-container {
+    text-align: center;  
+  }
+
+  #for-more{
+     font-family: Arial, Helvetica, sans-serif;
+     text-align: left;
+     font-size: 20px;
+  }
+  p.author{
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      font-style:italic;
+      font-size:small;
+  }
